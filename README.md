@@ -1,2 +1,3 @@
 # UnityEditorTools
-Editor tools for Unity. Worlds&amp;Avatars related instruments.
+
+A collection of editor utilities for Unity projects. Place your tools under `Assets/Editor/MyTools/`.
